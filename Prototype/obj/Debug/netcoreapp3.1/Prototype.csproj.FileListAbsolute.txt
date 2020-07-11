@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache

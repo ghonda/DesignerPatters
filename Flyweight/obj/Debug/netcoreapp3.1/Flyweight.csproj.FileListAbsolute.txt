@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache

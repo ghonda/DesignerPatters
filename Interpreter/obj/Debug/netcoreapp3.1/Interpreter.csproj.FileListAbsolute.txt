@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache

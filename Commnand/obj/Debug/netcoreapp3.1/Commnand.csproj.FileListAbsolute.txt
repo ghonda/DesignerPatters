@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\bin\Debug\netcoreapp3.1\Commnand.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.csprojAssemblyReference.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Commnand\obj\Debug\netcoreapp3.1\Commnand.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache

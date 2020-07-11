@@ -1,0 +1,13 @@
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Honda\Cursos\DesignerPatters\DesignerPatters\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
